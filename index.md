@@ -11,18 +11,16 @@ title: Core Principles of Data Science
 * We will be using R for all programming assignments and projects. 
 
 ### Instructor
-* Dr. Heather Mattie
-* Lecturer on Biostatistics
-* Co-Director, Health Data Science Master's Program
-* hemattie@hsph.harvard.edu
+* Dr. Gabriel Kallah-Dagadu
+* Lecturer on Statistics
+* PostDoc in Health Data Science, UKZN
+* gkallahdagadu@hsph.harvard.edu
+* KallahDagaduG@ukzn.ac.za
+* gkallah-dagadu@ug.edu.gh
 
 ### Teaching Assistants
 
-* Rebecca Astatke - rastatke@g.harvard.edu
-* Luke Benz - lukebenz@g.harvard.edu
-* Carmen Rodriguez Cabrera - crodriguezcabrera@g.harvard.edu
-* Jerry Chang - chiarui_chang@g.harvard.edu
-
+*
 ### Office Hours
 
 Note: all office hours will be held in-person AND online via Zoom links in Canvas.
